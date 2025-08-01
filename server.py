@@ -31,3 +31,6 @@ def send():
 def home():
     print('hello')
     return 'hi'
+
+if __name__ == "__main__":
+    app.run()
